@@ -30,6 +30,7 @@ requirements:
     - pybind11-abi
     - libboost-devel
     - python
+    - libpython # necessary since python 2.15
     - setuptools
     - eigen <5
     - obake-devel
